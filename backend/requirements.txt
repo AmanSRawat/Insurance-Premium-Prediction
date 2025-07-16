@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+aiofiles
+jinja2
+python-dotenv
+pandas
+scikit-learn

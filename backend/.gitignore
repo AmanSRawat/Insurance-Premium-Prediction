@@ -1,0 +1,19 @@
+
+# Virtual environment
+.venv/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs and output
+*.log
+
+# Environment variables
+.env
+*.env
+
+# Model/Artifact files (optional – only ignore if you rebuild them)
+*.pkl
